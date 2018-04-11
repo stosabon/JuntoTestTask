@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuntoTask</string>
+    <string name="default_text">default text</string>
+    <string name="get_it">Get it</string>
+</resources>
